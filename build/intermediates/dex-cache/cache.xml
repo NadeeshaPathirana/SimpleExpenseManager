@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a43676a71eea04bef161f3d76624a43d9b13d8a4">
+        <dex dex="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9e5fc8cd605adb6393596f4e032b6326917c5eda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_c0f5a3471b2fcb8a8665203ad121e5fbba9fbdca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_d0f6f0ecd7a9a436c7834fad7b1fe5f2531d51e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ecf30b9bc2b0b3005999306164855a2c8e68ab7">
+        <dex dex="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_12562a24d436ba4ca10a398d8fcde34e000c035c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_71ef08ee21aeee14da07baba86daa2f0b899a82b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_3ab281bcb566a1e4b38e5f3625a0d815403c245f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nadeesha Pathirana\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_1b60c9214accc079c38aed86394c20bb3ac19767\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Nadeesha Pathirana\Desktop\mini_project\SimpleExpenseManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_830611212b94ca9c2a6da59d8425973022fb7af0\classes.dex" />
+    </item>
+
+</items>
